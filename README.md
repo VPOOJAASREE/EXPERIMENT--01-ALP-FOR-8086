@@ -6,10 +6,6 @@ Roll No.: 212223040147
 
 Date of experiment : 07.03.2025
 
-
-
-
-
 ## Aim: To Write and execute ALP on fundamental arithmetic and logical operations
 ## Components required: 8086  emulator 
 ## Theory 
